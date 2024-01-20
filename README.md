@@ -1,2 +1,2 @@
 # HTML_desing_2
- Home page of the website
+ Главная страница веб-сайта без адаптива.
